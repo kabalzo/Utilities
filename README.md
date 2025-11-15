@@ -1,6 +1,7 @@
 # Windows Temperature Monitoring for Prometheus
 
 Export CPU, GPU, and motherboard temperatures to Prometheus using `windows_exporter` and LibreHardwareMonitor.
+
 Assumes that you already have `prometheus` and `graphana` set up.
 
 ## Prerequisites
