@@ -1,3 +1,5 @@
+<img width="760" height="343" alt="image" src="https://github.com/user-attachments/assets/93c7cb1c-453b-4493-a243-2dd9e5454df6" />
+
 # Windows Temperature Monitoring for Prometheus
 
 Export CPU, GPU, and motherboard temperatures to Prometheus using `windows_exporter` and the LibreHardwareMonitor library.
